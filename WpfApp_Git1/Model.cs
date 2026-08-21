@@ -9,5 +9,6 @@ namespace WpfApp_Git1
     internal class Model
     {
         string? Name {  get; set; }
+        string? Name2 { get; set; }
     }
 }

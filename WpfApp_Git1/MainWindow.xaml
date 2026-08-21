@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label Content="Update 2" />
+        <Label Content="Update 4" />
     </Grid>
 </Window>
