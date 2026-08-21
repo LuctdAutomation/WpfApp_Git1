@@ -12,6 +12,6 @@ namespace WpfApp_Git1
         string? Name2 { get; set; }
         string? Name3 { get; set; }
 
-        string? Name4 { get; set; }
+        string? Name49 { get; set; }
     }
 }
